@@ -19,6 +19,9 @@
 - หนังผี
 - สารคดี
 
+#### หัวข้อ Banner 
+- สลับเปลี่ยนรูปหน้าหนังเมื่อขึ้นเว็บไหม
+
 #### ดึงใช้ API จาก (Youtube, movie trailer)
  - เฉพาะตรงหัวข้อ NetflixOriginal สามารถกด display youtube ได้
 
