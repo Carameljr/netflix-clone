@@ -10,7 +10,7 @@
 
 ### ฟั้นชั่นในเว็บ
 
-* ดึงใช้ API จากเว็บ TMBD(Movie database)
+#### ดึงใช้ API จากเว็บ TMBD(Movie database)
 - ดึงข้อมูลเว็บหนัง catgory 
 - netflixOriginal
 - หนังติดเทรน
@@ -19,16 +19,16 @@
 - หนังผี
 - สารคดี
 
-* ดึงใช้ API จาก (Youtube, movie trailer)
+#### ดึงใช้ API จาก (Youtube, movie trailer)
  - เฉพาะตรงหัวข้อ NetflixOriginal สามารถกด display youtube ได้
 
-* ตกแต่งหน้าเว็บด้วย CSS
+#### ตกแต่งหน้าเว็บด้วย CSS
 - ทำเป็นแถวrow
 - สร้าง ดิสเพล Banner
 - สร้าง Navbar(นิดเดียว)
 - ทำ ทรานแสกชั่น เหมื่อนในแบบ netflix
 
-* ปัญหาฟั้นชั่น
+#### ปัญหาฟั้นชั่น
 - ไม่สามารถรับชมคลิป ยุทูปใน หัวข้อ NetflixOrignal ได้
 
 
