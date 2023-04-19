@@ -1,4 +1,42 @@
-### โปรเจคเว็บโคลน Netflix
+# โปรเจค Frontend 
+
+## โปรเจคเว็บโคลน Netflix 
+
+### โครงสร้างพื้นฐานเว็บ
+
+* ใช้ framwork react app
+* ใช้ firebase เป็น hosting
+* เขียนภาษาด้วย (Javascript,Css,html)
+
+### ฟั้นชั่นในเว็บ
+
+*ดึงใช้ API จากเว็บ TMBD(Movie database)
+- ดึงข้อมูลเว็บหนัง catgory 
+- netflixOriginal
+- หนังติดเทรน
+- หนังบู้
+- หนังโรแมนติก
+- หนังผี
+- สารคดี
+
+* ดึงใช้ API จาก (Youtube, movie trailer)
+ - เฉพาะตรงหัวข้อ NetflixOriginal สามารถกด display youtube ได้
+
+* ตกแต่งหน้าเว็บด้วย CSS
+- ทำเป็นแถวrow
+- สร้าง ดิสเพล Banner
+- สร้าง Navbar(นิดเดียว)
+- ทำ ทรานแสกชั่น เหมื่อนในแบบ netflix
+
+* ปัญหาฟั้นชั่น
+- ไม่สามารถรับชมคลิป ยุทูปใน หัวข้อ NetflixOrignal ได้
+
+
+ 
+ 
+ 
+ 
+
 
 
 
