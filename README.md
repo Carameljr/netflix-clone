@@ -10,7 +10,7 @@
 
 ### ฟั้นชั่นในเว็บ
 
-*ดึงใช้ API จากเว็บ TMBD(Movie database)
+* ดึงใช้ API จากเว็บ TMBD(Movie database)
 - ดึงข้อมูลเว็บหนัง catgory 
 - netflixOriginal
 - หนังติดเทรน
