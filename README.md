@@ -32,7 +32,9 @@
 - ไม่สามารถรับชมคลิป ยุทูปใน หัวข้อ NetflixOrignal ได้
 
 
- 
+รับชมได้ที่ลิ้งค์
+
+ netflix-clone-ddbab.web.app/
  
  
  
